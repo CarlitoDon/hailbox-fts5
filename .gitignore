@@ -1,0 +1,5 @@
+node_modules/
+hailbox.tar.gz
+*.db
+*.db-wal
+*.db-shm
